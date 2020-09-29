@@ -49,7 +49,7 @@ Code in Agents/MAAC.py and Agents/maac_utils/ modified from: https://github.com/
 }
 
 ```
-Code from Agents/maac_utils/vec_env/ from Open AI baselines: https://github.com/openai/baselines/tree/master/baselines/common
+Code in Agents/maac_utils/vec_env/ from Open AI baselines: https://github.com/openai/baselines/tree/master/baselines/common
 
 Code in Agents/ic3Net.py modified from: https://github.com/IC3Net/IC3Net
 ```
